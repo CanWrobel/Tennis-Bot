@@ -28,4 +28,3 @@ print(driver.page_source)
 
 # WebDriver schließen
 driver.quit()
-w
